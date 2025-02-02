@@ -1,5 +1,3 @@
-Yes! Here's a detailed **README.md** for your **Train Ticket Booking System (Python + MySQL)** project:  
-
 ---
 
 ### **Train Ticket Booking System** 🚆  
@@ -59,6 +57,6 @@ python train_booking.py
 ---
 
 ## **Contributors** ✨  
-👤 **[Your Name]** – Developer & Database Designer  
+👤 **[N MURALIKRISHNAN]** – Overall Developer & Database Designer  
 
 ---
